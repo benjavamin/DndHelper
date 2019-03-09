@@ -1,0 +1,10 @@
+C:\Users\Jasmin\source\repos\DndHelper\DndHelper\bin\Debug\DndHelper.exe.config
+C:\Users\Jasmin\source\repos\DndHelper\DndHelper\bin\Debug\DndHelper.exe
+C:\Users\Jasmin\source\repos\DndHelper\DndHelper\bin\Debug\DndHelper.pdb
+C:\Users\Jasmin\source\repos\DndHelper\DndHelper\obj\Debug\DndHelper.csprojResolveAssemblyReference.cache
+C:\Users\Jasmin\source\repos\DndHelper\DndHelper\obj\Debug\DndHelper.Form1.resources
+C:\Users\Jasmin\source\repos\DndHelper\DndHelper\obj\Debug\DndHelper.Properties.Resources.resources
+C:\Users\Jasmin\source\repos\DndHelper\DndHelper\obj\Debug\DndHelper.csproj.GenerateResource.Cache
+C:\Users\Jasmin\source\repos\DndHelper\DndHelper\obj\Debug\DndHelper.csproj.CoreCompileInputs.cache
+C:\Users\Jasmin\source\repos\DndHelper\DndHelper\obj\Debug\DndHelper.exe
+C:\Users\Jasmin\source\repos\DndHelper\DndHelper\obj\Debug\DndHelper.pdb
